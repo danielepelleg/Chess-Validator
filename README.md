@@ -5,8 +5,11 @@ The program recognizes every piece with a char, and a struct for every piece imp
 The chess is seen as a matrix 8x8 in which there are white and black pieces, the first are lower case characters, the second uppercase.
 
 p Pawn      | Pedone \n
+
 r Rook      | Torre
+
 n Knight    | Cavallo
+
 b Bishop    | Alfiere
 q Queen     | Regina
 k King      | Re
