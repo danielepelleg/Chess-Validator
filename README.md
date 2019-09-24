@@ -10,10 +10,10 @@ The chess is seen as a matrix 8x8 in which there are white and black pieces, the
 
     n Knight       | Cavallo
 
-    b Bishop      | Alfiere
+    b Bishop       | Alfiere
 
-    q Queen       | Regina
+    q Queen        | Regina
 
-    k King        | Re
+    k King         | Re
 
-    No Piece    | Nessun Pezzo
+    No Piece       | Nessun Pezzo
