@@ -6,7 +6,7 @@ The program recognizes every piece with a char, and a struct for every piece imp
 The chess is seen as a matrix 8x8 in which there are white and black pieces, the first are lower case characters, the second uppercase. User are given just the program file and a document representing the state of a chess. Once the program runs it creates the document showing the moves of the pieces.
 
 
-    p  Pawn        | Pedone
+    p Pawn         | Pedone
 
     r Rook         | Torre
 
